@@ -2,7 +2,7 @@ git init
 
 git add README.md
 
-git commit -m “first commit”
+git commit -m "initial commit"
 
 git remote add origin https://github.com/BuiHieu365/Bombermansss
 
